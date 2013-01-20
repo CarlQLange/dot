@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/carllange/Desktop/workspace/gc/spriter'
+let g:netrw_dirhist_2='/Users/carllange/Desktop/workspace/py/cv/PCV/examples'
+let g:netrw_dirhist_3='/Users/carllange/Desktop/workspace/gc/basil/lib/js.io'
+let g:netrw_dirhist_4='/Users/carllange/Desktop/workspace/gc/basil'
+let g:netrw_dirhist_5='/Users/carllange/Desktop/workspace/gc/newton'
+let g:netrw_dirhist_6='/Users/carllange/Desktop/workspace/web/crimp.me'
+let g:netrw_dirhist_7='/Users/carllange/Desktop/workspace/gc/slider'
+let g:netrw_dirhist_8='/Users/carllange/Desktop/workspace/gc/doc'
